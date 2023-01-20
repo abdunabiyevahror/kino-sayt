@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    background-color: white;
+    
+} 
+
+
+.head{
+    background-image: url(../img/Poster.png);
+    position: absolute;
+width: 1540px;
+height: 600px;
+left: 0px;
+top: 0px;
+}
+.img1{
+  
+     
+}
+.ul1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+}
+.li2{
+    width: 112px;
+height: 24px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+color: #FFFFFF;
+}
+ h2{
+
+    margin-left: 500px;
+ }
+ .inp1{
+    width: 511px;
+height: 24px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+ margin-left: 200px;
+
+
+  
+
+color: #797777;
+ }
+ .main_h1{
+
+    width: 404px;
+    height: 112px;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    margin-top: 120px;
+    margin-left: 100px;
+    
+    
+    color: #FFFFFF;
+    
+ }
+ p{
+    
+width: 302px;
+height: 72px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+margin-left: 100px ;
+color: #FFFFFF;
+ }
+ .btn{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 6px 16px;
+gap: 8px;
+
+width: 169px;
+height: 36px;
+
+/* rose/700 */
+margin-left: 100px;
+background: #BE123C;
+border-radius: 6px;
+ }
+
+.card1{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+     background-image: url(../img/Ellipse\ 1.png);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
